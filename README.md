@@ -12,10 +12,10 @@ Salary Prediction ML Web App. The purpose of this project is to use data transfo
 ● Random Forest Regressor </br>
 ● Best Model with Parameter selection using GridSearchCV </br>
 # Tech Stack/Libraries Used
-● Pandas
-● NumPy
-● Matplotlib
-● Scikit-learn
-● pickle
-● Jupyter Notebook
-● Streamlet
+● Pandas </br>
+● NumPy </br>
+● Matplotlib </br>
+● Scikit-learn </br>
+● pickle </br>
+● Jupyter Notebook </br>
+● Streamlit </br>
