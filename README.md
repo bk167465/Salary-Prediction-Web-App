@@ -19,3 +19,7 @@ Salary Prediction ML Web App. The purpose of this project is to use data transfo
 ● pickle </br>
 ● Jupyter Notebook </br>
 ● Streamlit </br>
+# Features used to predict Salary
+● Country Location
+● Education Level
+● Years of Experience
